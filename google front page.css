@@ -1,0 +1,134 @@
+.top-bar{
+    
+   font-family:  arial,sans-serif;
+   font-size: 13px;
+   color: #222;
+    float: right;
+    margin-top: 5px;  
+    margin-right: 15px;
+}
+
+#image{
+    
+    padding-left: 15px;
+}
+
+#icon{
+    
+    width: 16px;
+    margin-left: 15px;
+    margin-top: 5px; 
+    
+}
+
+#logo{
+    
+    width: 35px;
+    margin-left: 15px;
+    float: right;
+}
+
+#google-logo{
+    
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 290px;
+    margin-top: 40px;
+}
+
+.form-design{
+
+    height: 44px;
+    width: 600px;
+    margin-left: 27%;
+    margin-right: %;
+    margin-top: 20px;
+    border-radius: 20px;
+    border : 1px solid lightgray;
+}
+
+#ready{
+
+     width: 2px;
+}
+
+.below-searchbar{
+    
+    margin-top: 20px;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    color: #222;
+    text-align: center;
+}
+
+#search{
+    
+    margin-right: 10px;
+    background-color: whitesmoke;
+    background-position: center;
+    padding: 10px;
+    border-radius: 6%;
+}
+
+#mood{
+    margin-left: 10px;
+    background-position: center;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 6%;
+}
+
+.languages{
+    
+    text-align: center;
+    padding-top: 20px;
+    font-size: 14px;
+}
+
+#offer{
+    
+    font-family: arial,sans-serif;
+    font-size: 12px;
+    color: #222;
+}
+
+.padding{
+    
+    padding-left: 3px;
+}
+
+#search-icon{
+    
+    width: 30px;
+    position: relative;
+    
+}
+
+.search-bar{
+    position: relative;
+    
+}
+
+.search-bar img{
+    
+    
+}
+
+.page-bottom{
+
+    position: relative;
+    text-align-last: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
